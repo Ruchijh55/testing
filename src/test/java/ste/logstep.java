@@ -9,7 +9,7 @@ import io.cucumber.java.PendingException;
 public class logstep {
     @Given("user on login page")
     public void userOnLoginPage() {
-        System.out.println("userOnLoginPage");
+        System.out.println("userOnLoginPage & at india");
     }
 
 
